@@ -1,4 +1,4 @@
-def check_vowels():
+def check_vowels(): #
     nombre = input( )
     nombremin = nombre.lower()
     verdad = "a" in nombremin
