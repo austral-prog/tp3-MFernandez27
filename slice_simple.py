@@ -1,4 +1,4 @@
-def slice_simple():
+def slice_simple(): #
     palabra = "Awesome"
     texto = palabra.lower()
 
